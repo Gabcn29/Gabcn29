@@ -4,7 +4,7 @@
 
 ## ¿QUIEN SOY?
 
-Soy Ingeniero civil y desarrollador de Software Jr. con especialidad en el desarrollo web full stack, aplicaciones moviles nativas y enfasis en el desarrollo front end. Cuento con 8 meses de experiencia en el desarrollo front End para aplicaciones web y moviles. Soy apasionado y fanatico de la tecnologia y la innovación. Adicionalmente, tengo 1 año de experiencia como ingeniero civil interventor donde me encargaba de garantizar la calidad de actividades y procesos en proyectos de construcción de edificaciones.
+Soy Ingeniero civil y desarrollador de Software con especialidad en el desarrollo web full stack, aplicaciones moviles nativas y enfasis en el desarrollo front end. Cuento con 8 meses de experiencia en el desarrollo front End para aplicaciones web y moviles. Soy apasionado y fanatico de la tecnologia y la innovación. Adicionalmente, tengo 1 año de experiencia como ingeniero civil interventor donde me encargaba de garantizar la calidad de actividades y procesos en proyectos de construcción de edificaciones.
 
 ## ¿QUE TECNOLOGIAS MANEJO?
 
