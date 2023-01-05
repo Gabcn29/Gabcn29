@@ -35,4 +35,4 @@ En adición me encuentro cursando certificaciones en **docker**, **aws** y **fir
 
 **SI ESTAS INTERESADO EN CONTACTARME** a continuación te dejo mis redes.
 - **[LinkedIn](https://www.linkedin.com/in/gabriel-cogollo/)**
-- e-mail: **gabocn1096@gmail.com **
+- e-mail: **gabocn1096@gmail.com**
