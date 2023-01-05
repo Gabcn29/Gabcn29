@@ -29,7 +29,7 @@ Durante el desarrollo del bootcamp de Henry he adquirido conocimientos y habilid
 - **GIT** (Control de Versiones)
 - **SCRUM**
 - **HMTL**
-- **CSS**: Boostrap.
+- **CSS** - Boostrap.
 
 En adición me encuentro cursando certificaciones en **docker**, **aws** y **firebase**.
 
